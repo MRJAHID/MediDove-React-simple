@@ -10,7 +10,7 @@ Because nothing is more important than your and your family’s health.
 
 
 1: At MediDove you will be treated by caring, internationally trained doctors. They take the time to listen to you and understand your healthcare needs. </br>
-2: At MediDove We Offer affordable Health Services.
-3: At MediDove we are offering high-quality health care service.
-4: At MediDove We are a one-stop-shop for your health, offering caring doctors, world-class diagnostics, and much more.
-5: At MediDove Our doctors are able to look after all your healthcare needs. They listen and spend at least 15 minutes with you – every time.
+2: At MediDove We Offer affordable Health Services.  </br>
+3: At MediDove we are offering high-quality health care service.  </br>
+4: At MediDove We are a one-stop-shop for your health, offering caring doctors, world-class diagnostics, and much more.  </br>
+5: At MediDove Our doctors are able to look after all your healthcare needs. They listen and spend at least 15 minutes with you – every time.  </br>
