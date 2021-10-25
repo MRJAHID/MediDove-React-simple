@@ -1,0 +1,113 @@
+.footer {
+    background-color: #212a3b;
+    color: #fff;
+    display: block;
+    font-size: 14px;
+    margin-top: 80px;
+}
+.fFElfG {
+    margin: auto;
+    position: relative;
+    padding-left: 16px;
+    padding-right: 16px;
+    max-width: 920px;
+}
+.bAbcQW {
+    clear: both;
+    padding: 24px 0px;
+}
+.Center {
+    text-align: center;
+    margin: auto;
+}
+.padding-top-1x {
+    padding-top: 8px;
+}
+.stacked-1x,
+.stacked-children-1x > * {
+    margin: 0 0 8px;
+}
+.jtbnIU {
+    display: flex;
+    flex-wrap: wrap;
+    -webkit-box-pack: center;
+    justify-content: center;
+}
+.dOXLs {
+    display: inline;
+}
+.cellBo {
+    font-size: 14px;
+    margin: 0px 8px;
+    line-height: 28px;
+}
+
+.lfcaqm {
+    cursor: pointer;
+    transition: all 0.15s ease-in-out 0s;
+    user-select: none;
+    -webkit-tap-highlight-color: transparent;
+    text-decoration: none;
+    font-weight: 400;
+    color: rgb(255, 255, 255);
+}
+.FooterNav-unordered-list {
+    list-style: none;
+}
+.FooterNav-list-item {
+    margin: 0 8px;
+    display: inline;
+}
+.FooterNav-link {
+    display: inline-block;
+    font-size: 14px;
+    line-height: 28px;
+    width: inherit;
+}
+
+.FooterNav-mobile-apps img {
+    width: 120px;
+    display: inline-block;
+}
+.FooterNav-mobile-apps img:first-child {
+    margin-right: 16px;
+}
+.daMQrB {
+    cursor: pointer;
+    transition: all 0.15s ease-in-out 0s;
+    user-select: none;
+    -webkit-tap-highlight-color: transparent;
+    text-decoration: none;
+}
+.stacked-children-xs > *,
+.stacked-xs {
+    margin: 0 0 4px;
+}
+.kTIEzc {
+    font-size: 12px;
+    line-height: 16px;
+}
+.duQHsd {
+    cursor: pointer;
+    transition: all 0.15s ease-in-out 0s;
+    user-select: none;
+    -webkit-tap-highlight-color: transparent;
+    text-decoration: none;
+    font-weight: 400;
+    color: rgb(0, 232, 212);
+}
+.fjOsTU {
+    cursor: pointer;
+    transition: all 0.15s ease-in-out 0s;
+    user-select: none;
+    -webkit-tap-highlight-color: transparent;
+    text-decoration: none;
+    color: inherit;
+    font-weight: 500;
+}
+@media (min-width: 768px) {
+    .lfcaqm:focus,
+    .lfcaqm:hover {
+        text-decoration: underline;
+    }
+}

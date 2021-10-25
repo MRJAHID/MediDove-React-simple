@@ -1,0 +1,58 @@
+[
+    {
+        "id": 1,
+        "name": "Human Immunodeficiency Virus (HIV)",
+        "badge": "HIV",
+        "description": "HIV (human immunodeficiency virus) is the cause of AIDS (acquired immunodeficiency syndrome). HIV is a type of virus called a retrovirus, which infects humans when it comes in contact with a break in the skin or tissues such as those that line the vagina, anal area, mouth, or eyes.",
+        "img": "https://images.pexels.com/photos/6303695/pexels-photo-6303695.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+    },
+    {
+        "id": 2,
+        "name": "Diabetes Mellitus",
+        "badge": "Diabetes",
+        "description": "Diabetes is a chronic condition associated with abnormally high levels of sugar (glucose) in the blood. Insulin produced by the pancreas lowers blood glucose. ",
+        "img": "https://images.pexels.com/photos/1001897/pexels-photo-1001897.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+    },
+    {
+        "id": 3,
+        "name": "Insulin",
+        "badge": "Diabetes",
+        "description": "The typical insulin pump is attached to a thin plastic tube (an infusion set) that has a soft cannula (or plastic needle) at the end through which insulin passes.",
+        "img": "https://images.pexels.com/photos/6942015/pexels-photo-6942015.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+    },
+    {
+        "id": 4,
+        "name": "Pneumonia",
+        "badge": "Fever",
+        "description": "Pneumonia is a lung disease characterized by inflammation of the airspaces in the lungs, most commonly due to an infection.",
+        "img": "https://images.pexels.com/photos/3807629/pexels-photo-3807629.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+    },
+    {
+        "id": 5,
+        "name": "Liver Cancer",
+        "badge": "Cancer",
+        "description": "Incidence rates of hepatocellular cancer are rising in the United States due to increasing prevalence of cirrhosis caused by chronic hepatitis C and nonalcoholic fatty liver disease.",
+        "img": "https://images.pexels.com/photos/8016908/pexels-photo-8016908.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+    },
+    {
+        "id": 6,
+        "badge": "Cough",
+        "name": "Chronic Cough",
+        "description": "Chronic cough is a cough that persists over time. Chronic cough is not a disease in itself, but rather a symptom of an underlying condition.",
+        "img": "https://images.pexels.com/photos/3807629/pexels-photo-3807629.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+    },
+    {
+        "id": 7,
+        "name": "Allergy",
+        "badge": "Allergy",
+        "description": "Allergy involves an exaggerated response of the immune system, often to common substances such as foods, furry animal dander, or pollen.",
+        "img": "https://images.pexels.com/photos/8543401/pexels-photo-8543401.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+    },
+    {
+        "id": 8,
+        "name": "Migraine",
+        "badge": "Migraine",
+        "description": "Migraine is usually periodic attacks of headaches on one or both sides of the head. Migraines may be accompanied by nausea, vomiting, increased sensitivity light or sound, dizziness, cognitive disturbances, and other symptoms. Treatments include therapies and medication.",
+        "img": "https://images.pexels.com/photos/7034805/pexels-photo-7034805.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+    }
+]

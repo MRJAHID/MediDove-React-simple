@@ -1,0 +1,30 @@
+.banner__img img {
+    width: 100%;
+    height: auto;
+}
+.banner__content {
+    color: white;
+    position: absolute;
+    top: 30%;
+    text-align: left;
+    width: 38%;
+    left: 10%;
+}
+.banner__content h3 {
+    font-size: 65px;
+    margin-bottom: 1.3rem;
+}
+
+.banner__content h5 {
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 1.5;
+    margin-bottom: 1.3rem;
+    color: white;
+}
+
+.banner__content span {
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 2;
+}

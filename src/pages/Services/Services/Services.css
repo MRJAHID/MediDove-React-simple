@@ -1,0 +1,12 @@
+.gray-bg {
+    background: #f4f9fc;
+}
+.pb-160 {
+    padding-bottom: 160px;
+}
+
+.product__wrapper {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+    gap: 1rem;
+}
