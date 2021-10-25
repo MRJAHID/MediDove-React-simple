@@ -9,7 +9,7 @@ At MediDove, we have built a healthcare system where you come first.
 Because nothing is more important than your and your family’s health.
 
 
-1: At MediDove you will be treated by caring, internationally trained doctors. They take the time to listen to you and understand your healthcare needs.
+1: At MediDove you will be treated by caring, internationally trained doctors. They take the time to listen to you and understand your healthcare needs. </br>
 2: At MediDove We Offer affordable Health Services.
 3: At MediDove we are offering high-quality health care service.
 4: At MediDove We are a one-stop-shop for your health, offering caring doctors, world-class diagnostics, and much more.
