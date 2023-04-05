@@ -46,7 +46,6 @@ You can:
 ![App Screenshot](https://i.ibb.co/brvqkFD/Screenshot-from-2023-04-05-11-20-30.png)
 ![App Screenshot](https://i.ibb.co/85W6G17/Screenshot-from-2023-04-05-11-20-37.png)
 ![App Screenshot](https://i.ibb.co/5jQDBtS/Screenshot-from-2023-04-05-11-20-57.png)
-![App Screenshot](https://i.ibb.co/Rpj7rMS/Screenshot-from-2023-04-04-15-06-24.png)
 
 
 
