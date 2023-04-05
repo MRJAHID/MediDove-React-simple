@@ -1,16 +1,80 @@
-# MediDove 
+<p align="center">
+  <a href="https://medidove-84274.web.app/">
+    <img src="https://i.ibb.co/brvqkFD/Screenshot-from-2023-04-05-11-20-30.png" alt="Project Name">
+  </a>
+  <h3 align="center">Medidove React Design</h3>
+</p>
 
-We believe that everyone should have access to convenient, affordable, and high-quality care. 
-
-We are on a mission to change how healthcare is delivered in Bangladesh. We know how daunting getting access to the right care can be which is why we focus on turning a doctor visit into a delightful experience.
-
-Our goal is to make the process intuitive for our patients and provide care where ever you are – in clinic or at-home.
-At MediDove, we have built a healthcare system where you come first.
-Because nothing is more important than your and your family’s health.
+<br>
 
 
-1: At MediDove you will be treated by caring, internationally trained doctors. They take the time to listen to you and understand your healthcare needs. </br>
-2: At MediDove We Offer affordable Health Services.  </br>
-3: At MediDove we are offering high-quality health care service.  </br>
-4: At MediDove We are a one-stop-shop for your health, offering caring doctors, world-class diagnostics, and much more.  </br>
-5: At MediDove Our doctors are able to look after all your healthcare needs. They listen and spend at least 15 minutes with you – every time.  </br>
+## Table of contents
+- [About the Website](#about-the-website)
+- [Technical](#technical)
+- [Versions](#versions)
+- [Contact Information](#contact-information)
+
+
+
+### About the website
+
+Medidove React Design
+
+#### Hosted?
+
+Yes! This template is hosted on live.
+
+https://medidove-84274.web.app/  <br>
+
+
+### Technical
+#### Technology Used
+This project uses:
+  - Html
+  - Css
+  - Javascript
+  - React
+
+#### Running the project
+
+You can:
+    a. clone the project and compile it yourself (Most up to date)
+    
+    
+## Screenshots
+
+![App Screenshot](https://i.ibb.co/brvqkFD/Screenshot-from-2023-04-05-11-20-30.png)
+![App Screenshot](https://i.ibb.co/85W6G17/Screenshot-from-2023-04-05-11-20-37.png)
+![App Screenshot](https://i.ibb.co/5jQDBtS/Screenshot-from-2023-04-05-11-20-57.png)
+![App Screenshot](https://i.ibb.co/Rpj7rMS/Screenshot-from-2023-04-04-15-06-24.png)
+
+
+
+
+
+#### CONTRIBUTING
+
+I would/ We'd love to have your help in making  **{this app (replace with name of your project)}** better. The project is still very incomplete, but if there's an issue you'd like to see addressed sooner rather than later, let me(/us) know. 
+
+<hr>
+
+
+## Authors
+
+- [@MRJAHID](https://www.github.com/mrjahid)
+
+
+### Versions
+* Version 1.0  
+
+
+### Contact Information
+
+If you have found any bugs, or have any feedback or questions and or want to post a feature request please use the [Issuetracker](https://github.com/mrjahid) to report them.
+
+<hr>
+
+<br>
+
+[![license](https://img.shields.io/github/license/mashape/apistatus.svg?style=for-the-badge)](https://github.com/mrjahid)
+
